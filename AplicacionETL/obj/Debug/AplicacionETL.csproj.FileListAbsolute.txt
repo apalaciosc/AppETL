@@ -1,0 +1,151 @@
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.config
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.pdb
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csprojResolveAssemblyReference.cache
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.baml
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.g.cs
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\App.g.cs
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL_MarkupCompile.cache
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.g.resources
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.Properties.Resources.resources
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csproj.GenerateResource.Cache
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.pdb
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\Emailing.Generales.dll
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.dll
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.pdb
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.baml
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.g.cs
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.manifest
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.application
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe.manifest
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.application
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\wLogin.baml
+D:\Proyectos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\wLogin.g.cs
+D:\PROYECTOS\Proyecto Aplicativos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.config
+D:\PROYECTOS\Proyecto Aplicativos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe
+D:\PROYECTOS\Proyecto Aplicativos\Proyecto Integration Services\8. SOFTWARE\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.config
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.manifest
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.application
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.dll
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\wLogin.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\wLogin.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\App.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL_MarkupCompile.cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.g.resources
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.Properties.Resources.resources
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csproj.GenerateResource.Cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe.manifest
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\Info de apoyo\AplicacionETL\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.application
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.config
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.pdb
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.manifest
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.application
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.pdb
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.dll
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.pdb
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csprojResolveAssemblyReference.cache
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\wLogin.baml
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.baml
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.baml
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\wLogin.g.cs
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.g.cs
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.g.cs
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\App.g.cs
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL_MarkupCompile.cache
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.g.resources
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.Properties.Resources.resources
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csproj.GenerateResource.Cache
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe.manifest
+C:\Users\ijam\Desktop\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.application
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.config
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\wLogin.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\wLogin.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\App.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL_MarkupCompile.cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.g.resources
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.Properties.Resources.resources
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csproj.GenerateResource.Cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.manifest
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.application
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.dll
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe.manifest
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\aapc\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.application
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\AplicacionETL.exe.config
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\AplicacionETL.exe.manifest
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\AplicacionETL.application
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\AplicacionETL.exe
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\AplicacionETL.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\ETL.Librerias.dll
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\ETL.Librerias.pdb
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\wLogin.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\wProcesoPrincipal.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\wProcesoValidacion.baml
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\wLogin.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\wProcesoPrincipal.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\wProcesoValidacion.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\App.g.cs
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL_MarkupCompile.cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.g.resources
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.Properties.Resources.resources
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.csproj.GenerateResource.Cache
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.exe.manifest
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.application
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.exe
+D:\PROYECTOS\20180412- PROYECTO DETECTTA (MIGRACIÓN PROCESOS PASIVOS A ACTIVOS)\03. Aplicación ETL\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.pdb
+E:\CmacIca\CARP\AplicacionETL -  VS2013\AplicacionETL\bin\Debug\AplicacionETL.exe.config
+E:\CmacIca\CARP\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.exe
+E:\CmacIca\CARP\AplicacionETL -  VS2013\AplicacionETL\obj\Debug\AplicacionETL.pdb
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.config
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.pdb
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe.manifest
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.application
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.exe
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\bin\Debug\AplicacionETL.pdb
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.dll
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\bin\Debug\ETL.Librerias.pdb
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csprojResolveAssemblyReference.cache
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\wLogin.baml
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.baml
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.baml
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\wLogin.g.cs
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\wProcesoPrincipal.g.cs
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\wProcesoValidacion.g.cs
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\App.g.cs
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL_MarkupCompile.cache
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.g.resources
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.Properties.Resources.resources
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.csproj.GenerateResource.Cache
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.exe.manifest
+E:\CmacIca\CARP\AplicacionETL\AplicacionETL\obj\Debug\AplicacionETL.application
